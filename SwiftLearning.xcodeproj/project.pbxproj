@@ -15,6 +15,7 @@
 		17D0420B2428F75500E49F8D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17D042092428F75500E49F8D /* LaunchScreen.storyboard */; };
 		17D042162428F75500E49F8D /* SwiftLearningTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17D042152428F75500E49F8D /* SwiftLearningTests.swift */; };
 		17D042212428F75500E49F8D /* SwiftLearningUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17D042202428F75500E49F8D /* SwiftLearningUITests.swift */; };
+		17D04231242901B100E49F8D /* mefiblog_logo_vektoros.png in Resources */ = {isa = PBXBuildFile; fileRef = 17D04230242901B100E49F8D /* mefiblog_logo_vektoros.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		17D0421C2428F75500E49F8D /* SwiftLearningUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftLearningUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		17D042202428F75500E49F8D /* SwiftLearningUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftLearningUITests.swift; sourceTree = "<group>"; };
 		17D042222428F75500E49F8D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		17D04230242901B100E49F8D /* mefiblog_logo_vektoros.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mefiblog_logo_vektoros.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				17D042022428F75400E49F8D /* ContentView.swift */,
 				17D042042428F75500E49F8D /* Assets.xcassets */,
 				17D042092428F75500E49F8D /* LaunchScreen.storyboard */,
+				17D04230242901B100E49F8D /* mefiblog_logo_vektoros.png */,
 				17D0420C2428F75500E49F8D /* Info.plist */,
 				17D042062428F75500E49F8D /* Preview Content */,
 			);
@@ -242,6 +245,7 @@
 			files = (
 				17D0420B2428F75500E49F8D /* LaunchScreen.storyboard in Resources */,
 				17D042082428F75500E49F8D /* Preview Assets.xcassets in Resources */,
+				17D04231242901B100E49F8D /* mefiblog_logo_vektoros.png in Resources */,
 				17D042052428F75500E49F8D /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
